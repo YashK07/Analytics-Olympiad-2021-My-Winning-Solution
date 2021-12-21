@@ -12,7 +12,7 @@ The event was a roaring success. The Olympiad received over 1000 registrations f
 Link to the problem statement - https://machinehack.com/hackathon/data_analytics_championship/overview
 
 ## My Performance
-15 Minute solution presentaion infront the jury 📊 - 
+15 Minute solution presentaion infront of the jury & a 5 Minute Questions session 📊 - 
 
 ![image](https://github.com/YashK07/Analytics-Olympiad-2021-My-Winning-Solution/blob/master/Event%20Images/IMG_2011.JPG?raw=true)
 
