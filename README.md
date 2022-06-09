@@ -12,6 +12,8 @@ The event was a roaring success. The Olympiad received over 1000 registrations f
 Link to the problem statement - https://machinehack.com/hackathon/data_analytics_championship/overview
 
 Watch my presentation & the jury round (4:29:45 - 4:44:49) - https://youtu.be/_CAUZ4bF7rI
+
+The results!! (5:48:18 - 5:49:36) - https://youtu.be/_CAUZ4bF7rI
  
 
 ## My Performance
